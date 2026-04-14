@@ -1,2 +1,0 @@
-# dti
-drones in agriculture
